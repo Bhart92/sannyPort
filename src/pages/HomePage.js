@@ -1,7 +1,6 @@
 import { Row } from "react-bootstrap";
 import PhotoGallery from "../components/PhotoGallery";
 
-import Loader from "../components/Loader";
 const HomePage = () => {
   return (
     <div className="home-wrapper">
