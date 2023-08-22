@@ -29,7 +29,7 @@ const AboutPage = () => {
         </Row>
         <Row className="about-image-wrapper">
           <Col className="d-flex align-item-center justify-content-center about-image">
-            <Image src={aboutImg} rounded />
+            <Image src={aboutImg} rounded height={1012} width={1012} />
           </Col>
         </Row>
       </div>

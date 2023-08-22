@@ -34,6 +34,8 @@ const PhotoGallery = () => {
                       src={image.src}
                       thumbnail
                       onClick={handleImageChange}
+                      height={1012}
+                      width={1012}
                     />
                   </div>
                 </Col>{" "}
@@ -44,6 +46,8 @@ const PhotoGallery = () => {
                         src={photos[i + 1].src}
                         thumbnail
                         onClick={handleImageChange}
+                        height={1012}
+                        width={1012}
                       />
                     )}
                   </div>
