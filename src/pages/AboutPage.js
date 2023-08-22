@@ -21,7 +21,7 @@ const AboutPage = () => {
               Storytelling is an essential entity to daily life. You find
               yourself in it, you lose yourself to it, you delve into a world of
               culture and understanding. It is what I love to do, to try to
-              bring to life the pictures and movies that we would not otherwise
+              bring to life the pictures and movies that we would otherwise not
               see anywhere else but our minds. It allows a tangible connection,
               an honor I hold in order to bring the imagination to life.
             </p>

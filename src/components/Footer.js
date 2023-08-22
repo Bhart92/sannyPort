@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="text-center d-flex justify-content-center align-items-center">
-      <span>Sanny's Art. All Rights Reserved.</span>
+      <span>Sanny's Illustrations. All Rights Reserved.</span>
     </footer>
   );
 };
