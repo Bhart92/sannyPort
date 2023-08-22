@@ -1,0 +1,21 @@
+.image-gallery {
+  margin-bottom: 60px;
+  min-height: 200px;
+}
+.image-wrapper {
+  flex-basis: 0;
+  flex-grow: 1;
+  @media screen and (min-width: 768px) {
+    max-width: 375px;
+    min-width: 345px;
+  }
+  img {
+    transition: opacity 0.35s ease;
+    opacity: 0;
+    margin-top: 35px;
+    max-width: 100%;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    cursor: pointer;
+  }
+}

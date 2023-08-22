@@ -1,0 +1,26 @@
+header {
+  height: 60px;
+  nav {
+    max-height: 100%;
+    font-size: 13px !important;
+    background-color: #fff !important;
+  }
+}
+nav .navbar {
+  background-color: #fff !important;
+}
+
+.contact-mobile {
+  svg {
+    transform: scale(2);
+  }
+}
+#email-link {
+  svg {
+    transform: scale(1);
+  }
+}
+
+.copied {
+  color: rgba(0, 0, 0, 0.65) !important;
+}

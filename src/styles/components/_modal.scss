@@ -1,0 +1,13 @@
+.modal-body {
+  .close-btn {
+    position: absolute;
+    top: 25px;
+    right: 15px;
+    svg {
+      transform: scale(1.5);
+    }
+  }
+  img {
+    max-width: 100%;
+  }
+}

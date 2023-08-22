@@ -1,0 +1,46 @@
+.about-content {
+  opacity: 0;
+}
+.about-page {
+  min-height: 300px;
+  margin: 0 auto;
+  @media screen and (min-width: 995px) {
+    max-width: 70%;
+  }
+  p {
+    font-family: mont;
+    font-weight: 500;
+    font-size: 16px;
+    @media screen and (min-width: 700px) {
+      font-size: 18px;
+    }
+  }
+}
+.about-title {
+  h1 {
+    font-size: 42px;
+
+    font-family: mont;
+    font-weight: 700;
+    @media screen and (min-width: 700px) {
+      font-size: 48px;
+    }
+  }
+}
+.about-desc {
+  line-height: 32px;
+  p {
+    margin-bottom: 0 !important;
+  }
+}
+.about-image-wrapper {
+  max-width: 250px;
+  margin-left: auto !important;
+  position: relative;
+  margin-right: 23px !important;
+}
+.about-image {
+  img {
+    max-width: 100%;
+  }
+}
