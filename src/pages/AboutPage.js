@@ -1,5 +1,5 @@
 import { Row, Col, Image } from "react-bootstrap";
-import aboutImg from "../photos/girl.png";
+import aboutImg from "../photos/about.webp";
 import Loader from "../components/Loader";
 import useCheckImagesLoaded from "../util/useImageLoadCheck";
 const AboutPage = () => {

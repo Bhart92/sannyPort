@@ -4,7 +4,7 @@ import den from "./den.webp";
 import kettle from "./kettle.webp";
 import shelter from "./shelter.webp";
 import cozy from "./cozy.webp";
-import mickey from "./mickey.png";
+import mickey from "./mickey.webp";
 const photos = [
   {
     src: girl,

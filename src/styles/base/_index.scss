@@ -7,3 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
 }
+* {
+  font-display: fallback;
+}

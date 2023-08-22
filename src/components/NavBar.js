@@ -28,7 +28,7 @@ const NavBar = () => {
       return (
         <div className="contact-mobile mt-4">
           <Nav.Link
-            id="email-link"
+            className="email-link"
             href="mailto:sannymhart@gmail.com"
             onClick={handleCopyText}
           >
