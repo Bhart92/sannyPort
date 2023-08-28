@@ -30,10 +30,6 @@ const photos = [
     src: bath,
     alt: "An editorial piece of a Victorian inspired bathroom.",
   },
-  {
-    src: cozy,
-    alt: "An inside view of a witchy pumpkin shaped home.",
-  },
 ];
 
 export default photos;
